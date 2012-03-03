@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = "0.0.1"
   s.authors     = ["Jeremy Michel"]
   s.email       = ["jeremymichel91@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/visudex/Prefixr-Gem"
   s.summary     = %q{Prefixr command line utility}
   s.description = %q{Simple command line utility for Prefixr}
 
