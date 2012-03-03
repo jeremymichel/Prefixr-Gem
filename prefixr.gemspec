@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "prefixr"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.authors     = ["Jeremy Michel"]
   s.email       = ["jeremymichel91@gmail.com"]
   s.homepage    = "https://github.com/visudex/Prefixr-Gem"
